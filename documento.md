@@ -42,6 +42,5 @@ Se realizaron pruebas para validar la funcionalidad de cada estructura de datos:
 
 ## Repositorio de GitHub
 Puedes encontrar el código fuente de esta implementación en el siguiente repositorio:  
-[Enlace al repositorio](#) *(Reemplazar con el enlace real)*
-
+[Enlace al repositorio](https://github.com/Minjares/Tarea1_Compiladores) 
 
